@@ -2,7 +2,7 @@
  * BinarySearch - Simple implementation of binary search for arrays
  * Version: 1.0
  * Author: Raphyah
- * License: GNU General Public License version 3
+ * License: MIT
  * GitHub: https://www.github.com/Raphyah
  *
  * Description:
